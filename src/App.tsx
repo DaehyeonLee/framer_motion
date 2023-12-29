@@ -5,9 +5,10 @@ import Variants from "./Variants";
 import Gesture from "./Gesture";
 import Motionvalue from "./Motionvalues";
 import Svganimate from "./Svganimate";
+import Presence from "./Presence";
 
 const App = () => {
-  return <Svganimate />;
+  return <Presence />;
 };
 
 export default App;
