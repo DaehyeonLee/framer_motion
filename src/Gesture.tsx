@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { motion } from "framer-motion";
 import styled from "styled-components";
-import { Wrapper, Box } from "./style/StyledComponents";
+import { Wrapper, Box } from "./styles/StyledComponents";
 
 const ConstraintsBox = styled.div`
   width: 600px;

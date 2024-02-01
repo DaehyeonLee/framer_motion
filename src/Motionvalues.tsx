@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Wrapper, Box } from "./style/StyledComponents";
+import { Wrapper, Box } from "./styles/StyledComponents";
 import { motion, useMotionValue, useTransform, useViewportScroll } from "framer-motion";
 import { useEffect } from "react";
 

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Wrapper } from "./style/StyledComponents";
+import { Wrapper } from "./styles/StyledComponents";
 import { motion } from "framer-motion";
 
 const Svg = styled.svg`

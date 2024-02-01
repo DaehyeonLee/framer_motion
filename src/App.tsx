@@ -6,9 +6,10 @@ import Gesture from "./Gesture";
 import Motionvalue from "./Motionvalues";
 import Svganimate from "./Svganimate";
 import Presence from "./Presence";
+import Slider from "./Slider";
 
 const App = () => {
-  return <Presence />;
+  return <Slider />;
 };
 
 export default App;

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Wrapper, Box } from "./style/StyledComponents";
+import { Wrapper, Box } from "./styles/StyledComponents";
 import { AnimatePresence } from "framer-motion";
 
 const boxVarient = {
